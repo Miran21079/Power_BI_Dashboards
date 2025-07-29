@@ -10,7 +10,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## 📉 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs Dashboard GIF](Images/PageOne.png)
+![Data Jobs Dashboard v1](Data_Jobs_v1/Images/PageOne.png)
 
 This initial dashboard provides a comprehensive two-page exploration of the data job market, designed for job seekers. It features a high-level summary page and a detailed drill-through page for specific job titles, offering a broad look at market trends and compensation.
 
@@ -33,9 +33,7 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 
 ## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
 
-[![Data Jobs Dashboard 2.0 GIF](../images/Project2_Dashboard_Overview.gif)](./Project2/README.md)
-
-[🌐 **View Interactive Dashboard on Power BI Service**](https://lukeb.co/powerbi-project2)
+![Data Jobs Dashboard 2.0 GIF](Data_Jobs_v2/Images/DashboardPic.png)
 
 Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly focused, single-page experience. It's optimized to deliver the most critical insights quickly to job seekers, featuring dynamic interactions and more advanced analytical capabilities.
 
@@ -52,7 +50,7 @@ Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly fo
 - 🎚️ Optimized Slicers & Advanced Cross-Filtering Techniques
 - ✨ Report Performance Considerations
 
-[➡️ **View Full Project 2 Details (README)**](./Project2/README.md)
+[➡️ **View Full Project 2 Details (README)**](Data_Jobs_v2/README.md)
 
 ---
 
